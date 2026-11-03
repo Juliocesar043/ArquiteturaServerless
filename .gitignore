@@ -1,0 +1,11 @@
+# Regra de target desativada.
+target/
+
+# Arquivos de IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Arquivos do Serverless
+.serverless/
